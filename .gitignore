@@ -1,5 +1,6 @@
 /sourceCode/.vs
 /sourceCode/CommonApiServices/CommonApiServices.csproj.user
 **/obj/
+**/bin/
 **/bin
 
