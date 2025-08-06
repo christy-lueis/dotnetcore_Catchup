@@ -1,6 +1,4 @@
 /sourceCode/.vs
-/sourceCode/CommonApiServices/bin
-/sourceCode/CommonApiServices/obj
 /sourceCode/CommonApiServices/CommonApiServices.csproj.user
 /sourceCode/ServiceRunner/bin
 /sourceCode/ServiceRunner/obj
@@ -40,3 +38,9 @@
 /sourceCode/nUnit_tests/obj/project.nuget.cache
 /sourceCode/FilesModels/obj/Debug/net8.0/FilesModels.AssemblyInfo.cs
 /sourceCode/FilesModels/obj/Debug/net8.0/FilesModels.AssemblyInfoInputs.cache
+
+**/obj/
+**/bin/
+**/bin
+
+
