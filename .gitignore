@@ -4,6 +4,9 @@
 /sourceCode/ServiceRunner/obj
 /sourceCode/CommonModels/bin
 /sourceCode/CommonModels/obj
+
+/sourceCode/EncryptDecrypt.Lib/obj
+
 /sourceCode/FileOperations/bin
 /sourceCode/FileOperations/obj
 /sourceCode/EncryptDecrypt.Lib/obj
@@ -42,5 +45,6 @@
 **/obj/
 **/bin/
 **/bin
+
 
 
