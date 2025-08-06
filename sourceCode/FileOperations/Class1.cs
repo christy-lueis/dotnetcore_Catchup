@@ -1,4 +1,4 @@
-﻿namespace CommonModels
+﻿namespace FileOperations
 {
     public class Class1
     {
